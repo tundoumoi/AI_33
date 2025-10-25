@@ -1,11 +1,11 @@
-  ## Running the code
+## Running the code to Run Project
 
-  Run `npm i` to install the dependencies.
+Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
+Run `npm run dev` to start the development server.
 
-  ```
-└── 📁Billiard Management App 2
+# Cấu trúc Deliverables
+└── 📁Billiard Management App
     └── 📁src
         └── 📁components
             └── 📁figma
@@ -42,5 +42,15 @@
     ├── package.json
     ├── README.md
     └── vite.config.ts
-```
-  
+
+# Prompt Workflow :
+
+Prompt 1 : Sinh function theo yêu cầu 
+               |
+                --> Prompt 2 : Phân tích code
+                               |
+                                --> Prompt 3 : sin ma trận TestCase
+                                               |
+                                                --> Prompt 4 : Sinh Test code từ ma trận TestCase
+                                                               |
+                                                                --> Promt 5 : Mock UX/UI với các function đã tạo.
