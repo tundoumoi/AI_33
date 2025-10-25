@@ -35,6 +35,7 @@ run `npm test` to start test.
             ├── index.ts
         └── 📁utils
             ├── calculations.ts
+            ├── calculations.test.ts
         ├── App.tsx
         ├── Attributions.md
         ├── index.css

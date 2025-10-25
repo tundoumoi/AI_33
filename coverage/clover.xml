@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1761369640093" clover="3.2.0">
-  <project timestamp="1761369640093" name="All files">
+<coverage generated="1761370172882" clover="3.2.0">
+  <project timestamp="1761370172882" name="All files">
     <metrics statements="64" coveredstatements="64" conditionals="92" coveredconditionals="82" methods="9" coveredmethods="9" elements="165" coveredelements="155" complexity="0" loc="64" ncloc="64" packages="1" files="1" classes="1"/>
     <file name="calculations.ts" path="D:\Billiard Management App\src\utils\calculations.ts">
       <metrics statements="64" coveredstatements="64" conditionals="92" coveredconditionals="82" methods="9" coveredmethods="9"/>
