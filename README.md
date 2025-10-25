@@ -57,6 +57,6 @@ Prompt 1 : Sinh function theo yêu cầu
                                                                |
                                                                 --> Promt 5 : Mock UX/UI với các function đã tạo.
 
-# Coverage Percent : 89%
+# Coverage Percent :89-90%
 
 ![alt text](image-5.png)
