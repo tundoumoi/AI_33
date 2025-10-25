@@ -57,11 +57,6 @@ Prompt 1 : Sinh function theo yêu cầu
                                                                |
                                                                 --> Promt 5 : Mock UX/UI với các function đã tạo.
 
-# Coverage Percent 
+# Coverage Percent : 89%
 
-Test Suites: 1 failed, 1 total
-Tests:       1 failed, 59 passed, 60 total
-Snapshots:   0 total
-Time:        2.399 s
-
-PERCENT : 98%
+![alt text](image-5.png)
