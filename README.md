@@ -4,6 +4,8 @@ Run `npm i` to install the dependencies.
 
 Run `npm run dev` to start the development server.
 
+run `npm test` to start test.
+
 # Cấu trúc Deliverables
 └── 📁Billiard Management App
     └── 📁src
@@ -54,3 +56,12 @@ Prompt 1 : Sinh function theo yêu cầu
                                                 --> Prompt 4 : Sinh Test code từ ma trận TestCase
                                                                |
                                                                 --> Promt 5 : Mock UX/UI với các function đã tạo.
+
+# Coverage Percent 
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 59 passed, 60 total
+Snapshots:   0 total
+Time:        2.399 s
+
+PERCENT : 98%
